@@ -1,0 +1,17 @@
+PRUEBAS REALIZADAS
+
+1. Ruta principal
+URL: http://localhost:3000/
+Resultado: Se mostró el mensaje "Servidor activo".
+
+2. Ruta saludo
+URL: http://localhost:3000/saludo
+Resultado: Se mostró el mensaje "Hola comunidad".
+
+3. Ruta con parámetro
+URL: http://localhost:3000/mensaje/Juan
+Resultado: Se mostró el mensaje "Hola Juan".
+
+4. Ruta POST
+URL: http://localhost:3000/api
+Resultado: El servidor recibió y devolvió correctamente los datos enviados en formato JSON.
