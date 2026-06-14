@@ -1,0 +1,12 @@
+Pregunta 1:
+¿Qué es un servidor web?
+B. Un programa que recibe peticiones HTTP y devuelve respuestas a los usuarios
+Pregunta 2:
+¿Qué significa el comando node app.js?
+B. Que el sistema debe ejecutar como programa JavaScript el archivo app.js
+Pregunta 3:
+¿Cuál es la principal diferencia entre Express y Node.js?
+ B. Express simplifica y agiliza tareas comunes
+Pregunta 4:
+¿Para qué sirve app.listen()?
+ B. Permitir que la aplicación escuche solicitudes
