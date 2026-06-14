@@ -1,0 +1,5 @@
+mkdir semana8
+cd semana8
+mkdir reportes evidencias
+touch preguntas-semana8.txt reflexion-semana8.txt
+ls -R
