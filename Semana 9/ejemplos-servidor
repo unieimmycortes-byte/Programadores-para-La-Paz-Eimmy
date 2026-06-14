@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "nombre": "Servidor Escolar",
+  "puerto": 3000
+}
+
+Ejemplo 2:
+{
+  "nombre": "API Comunitaria",
+  "puerto": 4000
+}
