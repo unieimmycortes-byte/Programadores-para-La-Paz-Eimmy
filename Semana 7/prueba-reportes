@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el sistema muestra todos los reportes que han sido registrados previamente mediante la ruta POST. La información se devuelve en formato JSON dentro de un arreglo. Cada reporte contiene un identificador, un tipo y una descripción. Si no existen reportes registrados, el arreglo aparecerá vacío.
