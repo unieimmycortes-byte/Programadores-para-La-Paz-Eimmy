@@ -1,0 +1,12 @@
+Pregunta 5:
+mkdir semana8
+
+Pregunta 6:
+pwd
+ls
+
+Pregunta 7:
+uname -a
+
+Pregunta 8:
+chmod 755 datos.txt
