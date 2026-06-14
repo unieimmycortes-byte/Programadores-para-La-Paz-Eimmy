@@ -1,0 +1,1 @@
+Al ejecutar node server.js, el servidor inicia correctamente y queda escuchando en el puerto 3000. Cuando se abre la dirección http://localhost:3000 en el navegador, se muestra el mensaje configurado en la ruta principal. Esto demuestra que el servidor está funcionando y respondiendo a las solicitudes HTTP realizadas por el usuario.
